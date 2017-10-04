@@ -25,7 +25,7 @@ main {
 }
 
 #masthead {
-  position: fixed;
+  position: static;
   z-index: 99;
   width: 100%;
   margin: 0 0 30px;
@@ -86,3 +86,5 @@ main {
  header h1 { float: none; margin: 0; }
  header ul { float: none; margin: auto;}
 }
+
+
